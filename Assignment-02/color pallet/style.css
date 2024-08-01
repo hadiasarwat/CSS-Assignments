@@ -1,0 +1,275 @@
+body{
+    /* background-color: azure; */
+    background-image: url(./assest/images/background.jpg);
+     background-position: center; 
+    background-size:cover;
+    background-repeat: no-repeat;  
+}
+ .box1{
+    width: 600px;
+    height: 600px;
+    border: 3px solid black;
+    margin: 0 auto;
+    border-radius: 3em;
+    background-color: snow;
+    background-image:url(./assest/images/purple.avif) ; 
+     background-position: center; 
+   background-size:cover;
+   background-repeat: no-repeat; 
+}  
+     /* LIGHT BLUE */
+h1{
+    margin-left: 6em;
+    font-family: "Baskervville SC", serif;
+}
+    
+
+.line1 , .line2 , .line3 ,.line4 , .line5 , .line6 , .line7 , .line8 , .line9 , .line10{
+    width: 60px;
+    height: 60px;
+    border-radius: 50% ;
+    position: absolute;
+    top: 4%;
+   
+}
+ .line1{
+    background-color:rgb(233, 247, 245);
+    left: 30%;
+    top: 6em;
+} 
+.line2{
+    background-color:rgb(218, 245, 239);
+    left: 34%;
+    top: 6em;
+}
+.line3{
+    background-color:rgb(204, 236, 231);
+    left: 38%;
+    top: 6em;
+}
+.line4{
+   background-color:rgb(189, 231, 224) ;
+    left: 42%;
+    top: 6em;
+} 
+.line5{
+    background-color:rgb(174, 226, 217) ;
+    left: 46%;
+    top: 6em;
+} 
+.line6{
+    background-color:rgb(145,205 , 203);
+    left: 50%;
+    top: 6em;
+} 
+.line7{
+    background-color:rgb(116, 204, 189);
+    left: 54%;
+    top: 6em;
+} 
+.line8{
+    background-color:rgb(85, 195, 177);
+    left: 58%;
+    top: 6em;
+} 
+.line9{
+    background-color:rgb(63, 177, 158);
+    left: 62%;
+    top: 6em;
+} 
+.line10{
+    background-color:rgb(53, 147, 131);
+    left: 66%;
+    top: 6em;
+}   
+       /* PURPLE */
+.head1{
+    margin-left: 7em;
+    font-family: "Baskervville SC", serif;
+    margin-top: 3em;
+}
+.line11 , .line12 , .line13 ,.line14 , .line15 , .line16 , .line17 , .line18 , .line19 , .line20{
+    width: 60px;
+    height: 60px;
+    border-radius: 50% ;
+    position: absolute;
+    top: 4%;
+   
+}
+ .line11{
+    background: #cbc1d2;;
+    left: 30%;
+    top: 22em;
+} 
+.line12{
+    background:  #aa98b5;;
+    left: 34%;
+    top: 22em;
+}
+.line13{
+    background-color:#897089;
+    left: 38%;
+    top: 22em;
+}
+.line14{
+   background-color:#725483 ;
+    left: 42%;
+    top: 22em;
+} 
+.line15{
+    background-color:#5d3a6f ;
+    left: 46%;
+    top: 22em;
+} 
+.line16{
+    background-color:#57356a;
+    left: 50%;
+    top: 22em;
+} 
+.line17{
+    background-color:#4d2d6a;
+    left: 54%;
+    top: 22em;
+} 
+.line18{
+    background-color:#4d2d61;
+    left: 58%;
+    top: 22em;
+} 
+.line19{
+    background-color:#442858;
+    left: 62%;
+    top: 22em;
+} 
+.line20{
+    background-color:#371b48;
+    left: 66%;
+    top: 22em;
+} 
+   /* GREEN */
+.head2{
+    margin-left: 7em;
+    font-family: "Baskervville SC", serif;
+    margin-top: 2.9em;
+}
+.line21 , .line22 , .line23 ,.line24 , .line25 , .line26 , .line27 , .line28 , .line29 , .line30{
+    width: 60px;
+    height: 60px;
+    border-radius: 50% ;
+    position: absolute;
+    top: 4%;
+   
+}
+.line21{
+    background: #c6ebd5;;
+    left: 30%;
+    top: 14em;
+} 
+.line22{
+    background:  #a1debb;;
+    left: 34%;
+    top: 14em;
+}
+.line23{
+    background-color:#79d2a0;
+    left: 38%;
+    top: 14em;
+}
+.line24{
+    background-color:#59c88b ;
+     left: 42%;
+     top: 14em;
+ } 
+ .line25{
+     background-color:#35be76 ;
+     left: 46%;
+     top: 14em;
+ } 
+ .line26{
+     background-color:#2cae6b;
+     left: 50%;
+     top: 14em;
+ }
+.line27{
+   background-color: #2eb774;
+   left: 54%;
+   top: 14em;
+} 
+.line28{
+    background-color:#1e9258;
+    left: 58%;
+    top: 14em;
+} 
+.line29{
+    background-color:#118648;
+    left: 62%;
+    top: 14em;
+} 
+.line30{
+    background-color:#0b683c;
+    left: 66%;
+    top: 14em;
+} 
+   /* MEHROON */
+.head3{
+    margin-left: 7em;
+    font-family: "Baskervville SC", serif;
+    margin-top: 2.5em;
+}
+.line31 , .line32 , .line33 ,.line34 , .line35 , .line36 , .line37 , .line38 , .line39 , .line40{
+    width: 60px;
+    height: 60px;
+    border-radius: 50% ;
+    position: absolute;
+    top: 4%;
+}
+.line31{
+    background-color: #eac3c9;
+    left: 30%;
+    top: 30em;
+} 
+.line32{
+    background-color:  #cc9fa8;
+    left: 34%;
+    top: 30em;
+}
+.line33{
+    background-color:#af7b85;
+    left: 38%;
+    top: 30em;
+}
+.line34{
+    background-color:#9a606c ;
+     left: 42%;
+     top: 30em;
+ } 
+ .line35{
+    background-color:#854553;
+    left: 46%;
+    top: 30em;
+} 
+.line36{
+    background-color:#783d4b;
+    left: 50%;
+    top: 30em;
+}
+.line37{
+   background-color:#673140;
+   left: 54%;
+   top: 30em;
+} 
+.line38{
+    background-color:#633243;
+    left: 58%;
+    top: 30em;
+} 
+.line39{
+    background-color:#532939;
+    left: 62%;
+    top: 30em;
+} 
+.line40{
+    background-color:#4d2330;
+    left: 66%;
+    top: 30em;
+} 
